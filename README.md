@@ -57,7 +57,7 @@ This project showcases proficiency in data cleaning, dashboard design, and busin
 | `capstone_sales_dashboard_tableau.twbx` | Tableau packaged workbook |
 | `capstone_sales_dashboard_tableau.pdf` | PDF export of Tableau dashboard |
 | `capstone_sales_dashboard_looker.pdf` | PDF export of Looker Studio dashboard |
-| `capstone_sales_data.csv` | Cleaned Superstore dataset used for the project |
+| `capstone_sales_data.xlsx` | Cleaned Superstore dataset used for the project |
 | `README.md` | Project overview and documentation |
 
 ---
