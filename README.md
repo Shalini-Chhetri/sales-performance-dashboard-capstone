@@ -71,7 +71,6 @@ Please do not copy, reuse, or distribute any part of this work without permissio
 
 ## About the Author
 
-**Shalini Chhetri**  
-MS in Business Analytics  
-MS Business Analytics, St. John's University,
-Queens, NY
+**Shalini Chhetri**    
+MS Business Analytics,
+St. John's University, Queens, NY
